@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.exe
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.deps.json
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.runtimeconfig.json
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.dll
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\bin\Debug\netcoreapp3.1\consolaDePrueba.pdb
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.dll
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.pdb
+C:\Users\Usuario\source\repos\consolaDePrueba\consolaDePrueba\obj\Debug\netcoreapp3.1\consolaDePrueba.genruntimeconfig.cache
